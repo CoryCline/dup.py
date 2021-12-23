@@ -4,8 +4,8 @@ An application intended to simplify printing to terminal and outputting to a fil
 ## How to install
 To install this application, perform the following:
 ```
-chmod +x ./dup.py
-sudo mv ./dup.py /usr/local/bin/dup.py
+$ chmod +x ./dup.py
+$ sudo mv ./dup.py /usr/local/bin/dup.py
 ```
 
 ## Problem that gets solved
